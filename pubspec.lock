@@ -71,11 +71,11 @@ packages:
     dependency: "direct main"
     description:
       path: "."
-      ref: "0.0.5"
-      resolved-ref: "46fb61bcbd4d0116d9f4a40855c3e4ca9434636c"
+      ref: "0.0.7"
+      resolved-ref: "08999fdfc4ce035781d3078d445d6cc97ccb3f6f"
       url: "git://github.com/decodedhealth/flutter_zoom_plugin.git"
     source: git
-    version: "0.0.5"
+    version: "0.0.7"
   matcher:
     dependency: transitive
     description:

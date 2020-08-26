@@ -15,6 +15,9 @@ Feedback and Pull Requests are always welcome.
 - [ ] Start an existing meeting for logged in user.
 - [ ] Start an instant meeting for logged in user.
 
+![Zoom working screenshot](https://github.com/praharshbhatt/flutter_zoom/blob/master/Screenshot.png?raw=true)
+
+
 ## Zoom SDK Versions
 
 Android: https://github.com/zoom/zoom-sdk-android/releases/tag/v4.6.21666.0429
